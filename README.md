@@ -1,8 +1,9 @@
-# Hi, I'm Sanket Salve 👋  
-🎓 2nd Year BSc Data Science and Business Analytics student at HSNC University  
-🔍 Exploring Data Science, Business Analytics, and Machine Learning  
-💻 Skilled in Python, R, Excel, and SQL  
-🌟 Aspiring Data Scientist  
+Hey, I'm Sanket Salve
+📊 Data Science & Business Analytics student 
+🚀 I love turning messy data into simple insights that solve real problems
+💡 Currently exploring client projects, dashboards, and data-driven solutions
+🛠️ Tools I use: Python, SQL, Excel, Power BI & AI 
+📬 Open to collabs, freelance gigs, or just geeking out on data stuff! 
 
 
 <!---
